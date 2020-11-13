@@ -1,1 +1,2 @@
-# Dust-BIN
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
